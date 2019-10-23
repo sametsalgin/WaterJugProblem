@@ -23,4 +23,4 @@ def waterJugSolver(action,jug1,jug2):
         return False
 
 print("Steps: ") 
-waterJugSolver(">Initial state<    ",0, 0) 
+waterJugSolver(">Initial state is< ",0, 0) 
