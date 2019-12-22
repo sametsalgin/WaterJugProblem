@@ -1,7 +1,6 @@
 #sametsalgin10@gmail.com
 #water_jug_problem
 from collections import defaultdict 
-
 visited = defaultdict(lambda: False) 
 jug1_capacity, jug2_capacity, aim = 4, 3, 2
 
